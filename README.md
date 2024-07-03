@@ -1,4 +1,4 @@
-### 🚀 Hi!
+### 🚀 Hi there!
 ### This is Zhehao Yi!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PeterYi-del)
@@ -6,13 +6,16 @@
 
 Welcome to my homepage! I am currently a senior student in the Department of Mathematics at South China Agricultural University.
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=PeterYi-del&theme=road_trip">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=PeterYi-del&theme=summer">
+</picture>
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my bachelor's Degree  
 - Research quantum computing and information and quantum machine learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+- Finish my bachelor's Degree  
+- Create my blog [📚](www.smartstone.fun)
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
@@ -21,12 +24,9 @@ Welcome to my homepage! I am currently a senior student in the Department of Mat
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<br />
 </p>
 
 <!---
