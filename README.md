@@ -8,7 +8,8 @@ Welcome to my homepage! I am currently a senior student in the Department of Mat
 
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=PeterYi-del&theme=road_trip">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=PeterYi-del&theme=summer">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=PeterYi-del&theme=journey&pixelate_avatar=false
+">
 </picture>
 
 
@@ -27,6 +28,10 @@ Welcome to my homepage! I am currently a senior student in the Department of Mat
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <br/>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 </p>
 
 <!---
