@@ -8,6 +8,7 @@ Welcome to my homepage! I am currently a senior student in the Department of Mat
 
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=PeterYi-del&theme=road_trip">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=PeterYi-del&theme=road_trip">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=PeterYi-del&theme=journey&pixelate_avatar=false
 ">
 </picture>
