@@ -16,7 +16,6 @@ Welcome to my homepage! I am currently a student in the Department of Mathematic
 
 #### 🌱 Things I am currently working on: 
 - Finish my bachelor's Degree  
-- Create my blog [📚](www.smartstone.fun)
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
