@@ -15,7 +15,6 @@ Welcome to my homepage! I am currently a senior student in the Department of Mat
 
 
 #### 🌱 Things I am currently working on: 
-- Research quantum computing and information and quantum machine learning 
 - Finish my bachelor's Degree  
 - Create my blog [📚](www.smartstone.fun)
 
