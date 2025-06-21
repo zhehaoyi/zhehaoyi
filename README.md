@@ -4,14 +4,8 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PeterYi-del)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zhehaoyi3@gmail.com)
 
-Welcome to my homepage! I am currently a student in the Department of Mathematics at South China Agricultural University.
+Welcome to my homepage! I am a student in the Department of Mathematics at South China Agricultural University.
 
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=PeterYi-del&theme=road_trip">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=PeterYi-del&theme=road_trip">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=PeterYi-del&theme=journey&pixelate_avatar=false
-">
-</picture>
 
 
 #### 🌱 Things I am currently working on: 
