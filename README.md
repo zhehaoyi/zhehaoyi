@@ -4,12 +4,14 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PeterYi-del)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zhehaoyi3@gmail.com)
 
-Welcome to my homepage! I am a student in the Department of Mathematics at South China Agricultural University.
+Welcome to my homepage! I am a Ph.D. student in the Department of ECE at University of Alabama in Huntsville.
 
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my bachelor's Degree  
+- Finish my Doctor's Degree
+- Explor Quantum World
+
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
